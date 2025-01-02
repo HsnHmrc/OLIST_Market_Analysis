@@ -1,7 +1,5 @@
 # OLIST Market Analysis 🇧🇷
 
-**Note:** I will add screenshots when I have completed the visualizations in the analysis and will fix the shortcomings in the ReadMe folder.
-
 🔍 **Overview**  
 This project provides a comprehensive market analysis using data from **OLIST**, a popular e-commerce platform in Brazil. The project covers **data cleaning**, **transformation**, and **analysis** using SQL queries, while also presenting the data in a more understandable way with **interactive visualizations** created in Power BI.  
 
@@ -87,24 +85,20 @@ This SQL file contains a series of well-structured queries designed to extract i
 
 The Power BI report includes:  
 
-1. **📅 Sales Trends:**  
-   * Line chart showing sales trends over time.  
-   * _Screenshot_  
+1. **📅 Customer Analysis:**  
+   * Check out general information about customers' spending and distribution and more.  
+   * ![image](https://github.com/user-attachments/assets/c0040e6e-5545-4a05-90fc-68dffb80c494)
+ 
 
-2. **👥 Customer Segmentation:**  
-   * Pie chart or map visualization dividing customers into groups based on purchasing behavior.  
-   * _Screenshot_  
+2. **👥 Payment Analysis:**  
+   * You can examine customers' payment behavior (e.g. the most used payment method). 
+   * ![image](https://github.com/user-attachments/assets/294efa6a-dda7-4cdd-9115-91e5317bef3c)
+  
 
-3. **📦 Product Performance:**  
-   * Bar chart highlighting best-selling products and top revenue-generating items.  
-   * _Screenshot_  
-
-4. **🚛 Logistics Performance:**  
-   * Metrics showcasing average shipping times and delivery success rates.  
-   * _Screenshot_  
-
-_`![Description](powerbi/screenshot.png)`_
-
+3. **📦 Category Analysis (Product):**  
+   * Check out category-based analysis.  
+   * ![image](https://github.com/user-attachments/assets/b211402a-80fb-4119-a4ed-767da2c990bb)
+  
 ---
 
 ## 🚀 **Getting Started**
